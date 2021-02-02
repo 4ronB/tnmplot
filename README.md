@@ -1,7 +1,7 @@
-# tnmplot
+# TNMlot
 
 ## Details
-tnmplot is a tool for the comparison of normal cancerous and metastatic gene expression data. It aims to provide an easy to use tool for everyone.
+TNMplot is a tool for the comparison of normal cancerous and metastatic gene expression data. It aims to provide an easy to use tool for everyone.
 The webtool is available here: https://www.tnmplot.com/
 In this repository you can find the codes for the analysis done in the application. All the used data are downloaded from publicly available data repositories.
 
