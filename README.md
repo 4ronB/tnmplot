@@ -1,4 +1,4 @@
-# TNMlot
+# TNMplot
 
 ## Details
 TNMplot is a tool for the comparison of normal cancerous and metastatic gene expression data. It aims to provide an easy to use tool for everyone.
